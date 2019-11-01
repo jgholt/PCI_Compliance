@@ -2,4 +2,4 @@
 - name: This is a play to do PCI Compliance
   hosts: all
   roles:
-    - { role: REdHatOfficial.rhel7_pci_dss }
+    - { role: redhatofficial.rhel7_pci_dss }
